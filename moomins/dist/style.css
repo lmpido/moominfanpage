@@ -1,0 +1,60 @@
+body{
+  /*background: rgb(246,204,246);
+background: linear-gradient( rgba(246,204,246,1) 8%, rgba(9,9,121,1) 60%, rgba(152,230,246,1) 100%);*/
+ background-color: #AEC6CF;
+}
+
+#angryMoomin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid darkblue;
+  border-radius: 50%;
+}
+
+#homeMessage{
+  font-family: Comic Sans ms;
+  text-align: center;
+}
+
+#tab1, #tab2, #tab3 {
+  width: 100px;
+  height: 25px;
+  border-color: darkblue;
+  background-color: white;
+  border-radius: 50px;
+  font-family: Comic Sans ms;
+}
+#hr {
+  border-color: blue;
+}
+.highlight {
+  font-family: Comic Sans ms;
+  color: #308BC0;
+}
+
+#header {
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px lightblue
+}
+
+#title {
+ font-family: Comic Sans ms; 
+}
+#sub {
+  font-family: Comic Sans ms;
+}
+#toChange {
+  text-align: center;
+  font-family: Comic Sans ms;
+}
+
+h2, h3 {
+  font-family: Comic Sans ms;
+}
+
+img{
+  width: 500px;
+}
